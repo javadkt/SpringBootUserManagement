@@ -30,7 +30,7 @@ mvn clean install
 # Port and DB configurations for the API server are in /src/main/resources/application.properties
 
 # After successfully building the jar with Maven, start the server using the command
-java -jar ./target/springsecurity-0.0.1-SNAPSHOT.jar
+java -jar ./target/springbootapp-0.0.1-SNAPSHOT.jar 
 # Alternate approach: Run project from IDE 
 
 ```
